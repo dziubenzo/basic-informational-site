@@ -1,1 +1,1 @@
-# basic-informational-site
+# Odin Project - Basic Informational Site
